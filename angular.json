@@ -132,7 +132,7 @@
   },
   "defaultProject": "NetflixClone"
 }
-<button mat-raised-button color="primary"
+<button mat-raised-button color="primary" type="button"
     matBadge="8" matBadgePosition="before" matBadgeColor="accent">
   Action
 </button>
